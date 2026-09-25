@@ -24,7 +24,7 @@ React, TypeScript, JavaScript, Java, Spring Boot, Python, Swift, and browser ext
 
 ### Contact Me
 
-Email me: mcpejunwei@gmail.com
-Question? I am always here to help!
-Working together for a project? Always welcome!!!
+Email me: mcpejunwei@gmail.com <br>
+Question? I am always here to help! <br>
+Working together for a project? Always welcome!!! <br>
 Networking? Hell yeah, drop me an email.
