@@ -1,3 +1,17 @@
+~~~text
+          .-""""""""-.
+       .-'   _/\_     '-.
+     .'    .'/__\'.      '.
+    /     / /\/\/\ \       \
+   |     | |  (o) (o)|      |
+   |     | |     \   |      |
+   |     | |      \_________>
+   |      \ \   .-..-/     |
+    \      '.__\___/.'    /
+     '.                 .'
+       '-.__________.-'
+~~~
+
 # Hi, I'm Junwei 👋
 
 I'm a Computer Science + Mathematics undergraduate at NYU. I build tools that make complex information easier to act on, especially for runners and students.
